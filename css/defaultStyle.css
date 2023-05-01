@@ -27,4 +27,5 @@ body {
   .item:hover {
     flex-grow: 30%;
   }
+  
 }
